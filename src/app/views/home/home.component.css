@@ -95,7 +95,16 @@ body {
     background-color: #6E07F3!important;
 }
 .button-2 {
+    margin-right: 10px;
     color: #6E07F3!important;
+}
+.button-3 {
+  margin-right: 10px;
+  background-color: #6E07F3!important;
+}
+.button-4 {
+  margin-right: 10px;
+  color: #6E07F3!important;
 }
 
 .repository {
